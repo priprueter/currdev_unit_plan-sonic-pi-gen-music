@@ -1,0 +1,4 @@
+** Sonic Pi Generative Music Unit Plan
+*** by Liam Baum
+
+This repositiory will hold all documents for the Curriculum Development courses unit plan final project
