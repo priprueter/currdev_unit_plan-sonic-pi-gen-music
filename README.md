@@ -58,7 +58,7 @@ Note: As I plan this, I am realizing this is shaping up to take a lot more time 
   - Defining Indeterminate/Aleotoric
   - Pros/Cons to this method of composition
   - John Cage - Music of Changes
-  - Create piece using dice rolls and coin flips
+  - Create piece using dice rolls and coin flips<br>
 **Standards**
 - 7-8.IC.1
 
@@ -66,7 +66,7 @@ Note: As I plan this, I am realizing this is shaping up to take a lot more time 
   - Different methods for randomization
     - dice
     - rand_i
-  - Recreating Dice Roll and Coin Flip piece in Sonic Pi
+  - Recreating Dice Roll and Coin Flip piece in Sonic Pi<br>
 **Standards**
 - 7-8.CT.6
 
@@ -75,20 +75,20 @@ Note: As I plan this, I am realizing this is shaping up to take a lot more time 
   - Establish why same number is always chosen
   - Use_random_seed
   - Discuss concept of pseudo random
-  - Time.now.to_i
+  - Time.now.to_i<br>
 **Standards**
 - 7-8.CT.1
 
 3. Manipulating data structures
   - Identify ways to manipulate a sequence of numbers
   - Introduce methods for manipulating data structures
-  - Provide randomized input to methods
+  - Provide randomized input to methods<br>
 **Standards**
 - 7-8.CT.1
 
 4. Looping through data structures of different lengths
   - Identify issues with basic looping structures
-  - Finding length of data structures = .length
+  - Finding length of data structures = .length<br>
 **Standards**
 - 7-8.CT.8
 - 7-8.CT.9
@@ -96,7 +96,7 @@ Note: As I plan this, I am realizing this is shaping up to take a lot more time 
 5. Conditional Statements
   - Single Line if statements
   - Storing randomized output in variables
-  - Nested conditionals
+  - Nested conditionals<br>
 **Standards**
 - 7-8.CT.7
 - 7-8.CT.8
@@ -104,7 +104,7 @@ Note: As I plan this, I am realizing this is shaping up to take a lot more time 
 
 6. Other applications of Randomized output
   - Duration
-  - Sample Parameters
+  - Sample Parameters<br>
 **Standards**
 - 7-8.CT.4
 - 7-8.CT.7
@@ -113,7 +113,7 @@ Note: As I plan this, I am realizing this is shaping up to take a lot more time 
   - This piece should be ongoing (no definitive end)
   - It should slightly change over time
   - Changes should be influenced by some type of random events
-  - Students should be able to explain how their program works including what methods of randomization they used, where that randomization is passed into their program and how the randomization affects the output of their program.
+  - Students should be able to explain how their program works including what methods of randomization they used, where that randomization is passed into their program and how the randomization affects the output of their program.<br>
 **Standards**
 - 7-8.DL.4
 - 7-8.CT.4
