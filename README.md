@@ -23,7 +23,7 @@ It would also present an opportunity to incorporate some discussions about creat
 ---
 
 ## Standards Referenced
-(select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)
+NYS Computer Science and Digital Fluency earning Standards
 
 ---
 
@@ -50,18 +50,25 @@ It would also present an opportunity to incorporate some discussions about creat
 ---
 
 ## Lessons
-Total length: 3-4 Weeks
+Total length: 2-3 Weeks
 
 Note: As I plan this, I am realizing this is shaping up to take a lot more time than the 2 weeks discussed in class. I already have 10 lessons planned out without any time allotted to do work in class for certain projects. I may have to break this unit plan into two (Generative music in Sonic Pi, Issues of Ethics in AI) and only focus on completing one for this specific assignment.
 
-Maybe start with introduction to Aleatoric music examples:<br>
-John Cage - Winds of Change<br>
-Brian Eno - Airport music<br>
+0. Intro to Indeterminate/Aleotoric Music
+  - Defining Indeterminate/Aleotoric
+  - Pros/Cons to this method of composition
+  - John Cage - Music of Changes
+  - Create piece using dice rolls and coin flips
+**Standards**
+- 7-8.IC.1
 
 1. Indeterminate introduction and composition
-  - Create piece using dice and coins
-  - Recreate this piece using dice and rand_i
-
+  - Different methods for randomization
+    - dice
+    - rand_i
+  - Recreating Dice Roll and Coin Flip piece in Sonic Pi
+**Standards**
+- 7-8.CT.6
 
 2. True random vs Pseudo random
   - Using rrand_i to choose random integer from a range of numbers
@@ -69,60 +76,51 @@ Brian Eno - Airport music<br>
   - Use_random_seed
   - Discuss concept of pseudo random
   - Time.now.to_i
+**Standards**
+- 7-8.CT.1
 
+3. Manipulating data structures
+  - Identify ways to manipulate a sequence of numbers
+  - Introduce methods for manipulating data structures
+  - Provide randomized input to methods
+**Standards**
+- 7-8.CT.1
 
-3. Randomization of data structures
-  - Shuffling order of all values (.shuffle and other ring chains)
-  - Choose a random value (.choose)
-  - Choose a random index (rand_i)
+4. Looping through data structures of different lengths
+  - Identify issues with basic looping structures
+  - Finding length of data structures = .length
+**Standards**
+- 7-8.CT.8
+- 7-8.CT.9
 
-
-4. Conditional Statements
-  - If / Else / Else If
+5. Conditional Statements
   - Single Line if statements
-  - Randomizing conditions
+  - Storing randomized output in variables
   - Nested conditionals
+**Standards**
+- 7-8.CT.7
+- 7-8.CT.8
+- 7-8.CT.9
 
-
-5. Possible Outputs (Beyond notes and rhythms)
+6. Other applications of Randomized output
   - Duration
-  - Samples
-  - Fx parameters
+  - Sample Parameters
+**Standards**
+- 7-8.CT.4
+- 7-8.CT.7
 
-
-6. Generative project Roll out
+7. Generative project Roll out
   - This piece should be ongoing (no definitive end)
   - It should slightly change over time
   - Changes should be influenced by some type of random events
   - Students should be able to explain how their program works including what methods of randomization they used, where that randomization is passed into their program and how the randomization affects the output of their program.
+**Standards**
+- 7-8.DL.4
+- 7-8.CT.4
+- 7-8.CT.6
+- 7-8.CT.7
+- 7-8.CT.8
 
-
-7. Intro to AI discussion
-  - Group discussions on AI website homework
-  - Training Data
-  - Machine Learning
-  - What it is and what it isn’t
-
-
-8. Data Issues
-  - Types of Data (audio vs MIDI)
-  - Collecting Data (Data sets vs Making your own)
-
-
-9. AI for Hire (proprietary software)
-  - Making Music for commercial use
-  - Making Custom music for you
-  - Making Music for creative use
-
-
-10. Ethics Issues
-  - Originality
-  - Outsourcing Human creativity
-  - Collecting data
-  - Authenticity of data
-  - Curation
-
-11. Culminating Discussion / Socratic Seminar
 
 ---
 
@@ -130,11 +128,9 @@ Brian Eno - Airport music<br>
 
 - Dice roll / Coin flip recreation
 - Pseudo Random vs True Random check for understanding
-- Random values from data structures assignment
-- Conditional Statement check for understanding
+- Iterations through data structures assignment
+- Conditional Statement assignment
+- Multiple loops assignment
 - Generative Music Piece Final Project
-- Intro to AI exit slip
-- Data Issues exit slip
-- AI Ethical issues Discussion
 
 ---
