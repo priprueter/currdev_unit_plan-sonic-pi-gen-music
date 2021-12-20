@@ -43,7 +43,7 @@ NYS Computer Science and Digital Fluency Learning Standards
 ---
 
 ## Lessons
-Total length: 3 Weeks
+Total length: 2 Weeks
 
 
 1. Using Randon Events to Write a Song
